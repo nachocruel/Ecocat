@@ -1,0 +1,1 @@
+Ecocat é um jogo desenvolvido para insentivar a limpar ambiente sujos pelo lixo.
